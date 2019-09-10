@@ -1,0 +1,5 @@
+pesquisei "hover effect fall border bottom css"
+
+e achei o site: https://ianlunn.github.io/Hover/
+
+e dele fui no github ver o código e depois só adaptei
